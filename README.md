@@ -1,5 +1,5 @@
 # steplogger
-This project creates a logging process that automatically increments steps 
+Steplogger creates a logging process that automatically increments steps and means you don't have to manually keep track for logging where you want to break down tasks into identifiable steps.
 
 ## How to use it
 
