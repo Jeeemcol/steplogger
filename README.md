@@ -4,11 +4,17 @@ This project creates a logging process that automatically increments steps
 ## How to use it
 
 2025-03-07 15:15:20,274 - INFO - Beginning first process
+
 2025-03-07 15:15:20,274 - INFO - ..... STEP 1: The first step
+
 2025-03-07 15:15:20,274 - INFO - ..... STEP 2: The second step
+
 2025-03-07 15:15:20,274 - INFO - Beginning second process
+
 2025-03-07 15:15:20,274 - INFO - ..... STEP 1: The first step
+
 2025-03-07 15:15:20,274 - INFO - ..... STEP 2: The second step
+
 
 This is output from the following
 
